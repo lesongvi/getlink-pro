@@ -44,7 +44,7 @@ body{
 h1{
   margin-top: 5vh;
   margin-bottom: 15vh;
-  color: white;
+  color: red;
   font-weight: bold;
 }
 
@@ -61,7 +61,7 @@ h1{
 }
 
 label{
-  color: white;
+  color: red;
 }
 
 input[type=button]{
